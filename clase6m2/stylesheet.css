@@ -1,0 +1,32 @@
+
+.contenedor{display: flex;
+            flex-direction: column;
+            
+            align-items: flex-end;
+            }
+
+
+
+
+.cajaroja{ background: red;
+            height: 200px;
+          width: 200px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+.cajaazul{background: blue;
+          height: 200px;
+          width: 200px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+         }
+.cajaverde{background: green;
+          height: 200px;
+          width: 200px;
+          display: flex;
+          justify-content: center;
+          align-items: center; 
+        }
+
